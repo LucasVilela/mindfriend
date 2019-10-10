@@ -1,2 +1,0 @@
-# mindfriend
-Created with CodeSandbox
